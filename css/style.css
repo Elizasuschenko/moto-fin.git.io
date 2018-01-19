@@ -934,6 +934,7 @@ footer .soc a img{
   text-align: center;
   color: #2E2E2E;
   margin: 20px auto;
+  padding: 5px;
 }
 .modal-window-block-7 form input:focus{
   outline: 0;
@@ -968,7 +969,8 @@ footer .soc a img{
   margin-bottom: 20px;
   width: 225px;
   border-radius: 42px;
-  background-color: #009BEA;
+  border: none;
+  background-color: #00D5E9;
   color: white;
   font-size: 24px;
   text-transform: uppercase;
