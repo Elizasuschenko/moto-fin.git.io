@@ -924,6 +924,7 @@ footer .soc a img{
   font-family: 'SFUIDisplay-Bold';
 }
 .modal-window-block-7 form input{
+  padding: 5px;
   height: 42px;
   margin-bottom: 20px;
   width: 225px;
@@ -934,7 +935,6 @@ footer .soc a img{
   text-align: center;
   color: #2E2E2E;
   margin: 20px auto;
-  padding: 5px;
 }
 .modal-window-block-7 form input:focus{
   outline: 0;
@@ -969,10 +969,10 @@ footer .soc a img{
   margin-bottom: 20px;
   width: 225px;
   border-radius: 42px;
-  border: none;
   background-color: #00D5E9;
   color: white;
   font-size: 24px;
+  border: none;
   text-transform: uppercase;
   padding: 5px;
   margin-top: 20px;
@@ -1191,7 +1191,7 @@ header nav .menu ul li a{
   width: 260px;
 }
 #otziv .slick-arrow{
-  display: none;
+  display: none!important;
 }
 .client{
   display: inline-block;
@@ -1201,6 +1201,7 @@ header nav .menu ul li a{
   width: 80%;
   padding: 20px;
   margin-left: 0px;
+  margin-top: 20px;
 }
 #otziv .slid-text p{
   padding: : 15px;
@@ -1478,6 +1479,7 @@ header nav .menu ul li a{
   width: 80%;
   padding: 20px;
   margin-left: 0px;
+  margin-top: 20px;
 }
 #otziv .slid-text p{
   padding: : 15px;
